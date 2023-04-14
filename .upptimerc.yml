@@ -1,6 +1,7 @@
 # Change these first
 owner: wibinem # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: wibinem
 
 sites:
   - name: Google
