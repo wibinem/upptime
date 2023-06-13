@@ -4,35 +4,39 @@
     "url": "https://portainer.aliffashion.id",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.aliffashion.id.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 1053,
-    "timeWeek": 977,
-    "timeMonth": 1022,
-    "timeYear": 1054,
-    "dailyMinutesDown": {}
+    "time": 1059,
+    "timeDay": 1221,
+    "timeWeek": 1028,
+    "timeMonth": 1033,
+    "timeYear": 1059,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "Mikhmon",
     "url": "https://mikhmon.aliffashion.id",
     "icon": "https://icons.duckduckgo.com/ip3/mikhmon.aliffashion.id.ico",
     "slug": "mikhmon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1378,
-    "timeDay": 1414,
-    "timeWeek": 1251,
+    "time": 1377,
+    "timeDay": 1367,
+    "timeWeek": 1260,
     "timeMonth": 1303,
-    "timeYear": 1378,
-    "dailyMinutesDown": {}
+    "timeYear": 1377,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   }
 ]
